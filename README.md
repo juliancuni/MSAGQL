@@ -4,8 +4,6 @@ Nodejs + Express, Angular 8, MongoDB
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 [N/A]
 ```
