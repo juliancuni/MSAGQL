@@ -1,6 +1,6 @@
 # MicroServices Albania GraphQL
 
-Nodejs + Express, Angular 8, MongoDB.
+Nodejs + Express, Angular 8, MongoDB. (TypeScript)
 
 ## Installation
 

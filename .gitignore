@@ -328,7 +328,8 @@ captures/
 freeline.py
 freeline/
 freeline_project_description.json
-
+# BackEnd app.config.ts
+app.config.ts
 # fastlane
 fastlane/report.xml
 fastlane/Preview.html
